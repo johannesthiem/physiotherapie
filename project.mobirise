@@ -100,7 +100,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "PRAXIS FÜR PHYSIOTHERAPIE<br>",
-          "text": "<b>Andre Dohlen &amp; Rafael Sehmer</b><br>Physiotherapie &nbsp;| &nbsp;ManualTherapie",
+          "text": "<b>André Dohlen &amp; Rafael Sehmer</b><br>Physiotherapie &nbsp;| &nbsp;ManualTherapie",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content1-15\" data-toolbar=\"-mbrBtnMove\">Termin vereinbaren</a>",
           "media1": {
             "iconFont": {
@@ -793,13 +793,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-15",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgColor": "#ffffff"
-          },
-          "text": "<b>Wie können Sie mit uns Kontakt aufnehmen?</b><b><br></b><br>Wenn Sie mit uns persönlich Kontakt aufnehmen wollen, vereinbaren Sie bitte zunächst über Ihre <b>Telefon- oder Mailanfrage</b> einen ersten Termin. Weitere Termine sprechen wir dann in der Praxis mit Ihnen ab.<br>Sollten Sie einen Termin nicht wahrnehmen können, bitten wir Sie um eine <b>telefonische Absage</b> möglichst rechtzeitig einen Tag zuvor! <br><b>Eine Terminabsage über das Kontaktformular oder per E-Mail ist nicht erwünscht!</b><br><br><i>Alle Kassen, Privat, Berufsgenossenschaften sowie Selbstzahler.</i>",
           "_styles": {
             "I": {
               "color": "#455c97"
@@ -807,7 +800,14 @@
             "B": {
               "font-size": "16px"
             }
-          }
+          },
+          "_anchor": "content1-15",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "text": "<b>Wie können Sie mit uns Kontakt aufnehmen?</b><b><br></b><br>Wenn Sie mit uns persönlich Kontakt aufnehmen wollen, vereinbaren Sie bitte zunächst über Ihre <b>Telefon- oder Mailanfrage</b> einen ersten Termin. Weitere Termine sprechen wir dann in der Praxis mit Ihnen ab.<br>Sollten Sie einen Termin nicht wahrnehmen können, bitten wir Sie um eine <b>telefonische Absage</b> möglichst rechtzeitig einen Tag zuvor! <br><b>Eine Terminabsage über das Kontaktformular oder per E-Mail ist nicht erwünscht!</b><br><br><i>Alle Kassen, Privat, Berufsgenossenschaften sowie Selbstzahler.</i>"
         },
         {
           "_styles": {
