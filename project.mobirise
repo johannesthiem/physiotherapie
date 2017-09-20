@@ -825,7 +825,7 @@
           "_anchor": "footer4-r",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": true,
@@ -1012,7 +1012,7 @@
           },
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": true,
@@ -1204,7 +1204,7 @@
           },
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": true,
@@ -1396,7 +1396,7 @@
           },
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": true,
@@ -1601,7 +1601,7 @@
           },
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
             "parallax": true,
